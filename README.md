@@ -39,6 +39,3 @@ If you want to contribute in **react-polling-app**, follow these steps:
 - Do the changes and make a [Pull Request](https://github.com/TanveerAliS/react-polling-app/pulls)
 
 
-## License
-
-MIT © [TanveerAliS](https://github.com/TanveerAliS/)
